@@ -1,6 +1,6 @@
 import { Text, View, FlatList, Button, TouchableOpacity } from 'react-native'
 import React, { Component } from 'react'
-//Hi how are you
+//Hi how are you my name is khna
 import AsyncStorage from '@react-native-async-storage/async-storage';
 export default class HomeScreen extends Component {
   constructor(props) {
